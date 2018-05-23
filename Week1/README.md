@@ -54,6 +54,24 @@
 [Community](https://discuss.reactjs.org/)
 
 
+## Machine Learning (Trensorflow.js)
+
+[TensorFlow](https://js.tensorflow.org/)
+
+[Try TensorFlow](https://codepen.io/pen?&editors=1011)
+
+
 ## OpenCV 
 
 [Tutorial](https://docs.opencv.org/3.4.1/d5/d10/tutorial_js_root.html)
+
+
+## Markdown 
+
+[Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Mac Editor - Macdown] (https://macdown.uranusjr.com/)
+
+[Widows Editor - Typora] (https://typora.io/)
+
+
