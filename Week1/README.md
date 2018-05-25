@@ -60,6 +60,14 @@
 
 [Try TensorFlow](https://codepen.io/pen?&editors=1011)
 
+[Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+
+[Deep learning with python book] (http://proquestcombo.safaribooksonline.com.libdata.lib.ua.edu/book/programming/python/9781617294433)
+
+
+[Deep learning with python code](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+
 
 ## OpenCV 
 
@@ -70,8 +78,8 @@
 
 [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Mac Editor - Macdown] (https://macdown.uranusjr.com/)
+[Mac EditorvMacdown] (https://macdown.uranusjr.com/)
 
-[Widows Editor - Typora] (https://typora.io/)
+[Widows Editor Typora] (https://typora.io/)
 
 
