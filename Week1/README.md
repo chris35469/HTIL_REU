@@ -67,6 +67,7 @@
 
 [Deep learning with python code](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
+[Kaggle](https://www.kaggle.com/)
 
 
 ## OpenCV 
