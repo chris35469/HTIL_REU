@@ -69,6 +69,12 @@
 
 [Kaggle](https://www.kaggle.com/)
 
+[Xgboost](https://github.com/dmlc/xgboost)
+
+[Xgboost Node](https://www.npmjs.com/package/xgboost)
+
+[Keras](https://keras.io/)
+
 
 ## OpenCV 
 
