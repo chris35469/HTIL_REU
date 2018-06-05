@@ -94,7 +94,7 @@
 
 ### Books
 
-[Deep learning with python book] (http://proquestcombo.safaribooksonline.com.libdata.lib.ua.edu/book/programming/python/9781617294433)
+[Deep learning with python book](http://proquestcombo.safaribooksonline.com.libdata.lib.ua.edu/book/programming/python/9781617294433)
 
 [Deep learning with python code](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
