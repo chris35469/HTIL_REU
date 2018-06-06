@@ -8,3 +8,4 @@
 
 [React.js Tensor Flow](https://www.npmjs.com/package/react-native-tensorflow)
 
+[Example OpenCV tutorial](https://github.com/huningxin/opencv.js)
