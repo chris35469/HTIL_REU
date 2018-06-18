@@ -9,3 +9,5 @@
 [ROS Cozmo Github](https://github.com/OTL/cozmo_driver)
 
 [ROS Cozmo Video](https://www.youtube.com/watch?v=1RK-Mo6DGEw)
+
+[Cozmo Linux Install](http://cozmosdk.anki.com/docs/install-linux.html)
